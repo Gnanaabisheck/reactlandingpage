@@ -1,0 +1,78 @@
+.card{
+    height: 600px;
+    width: 300px;
+   border: 2px solid orangered ;
+   padding: 15px;
+    display: block;
+    margin: 60px auto;
+}
+*{
+    background-color: black !important;
+    color: white;
+}
+
+.car-tit{
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.car-amt{
+    font-size: 40px;
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+.bne-btn{
+    background-color: orangered !important;
+    color: white !important;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 18px;
+    display: block;
+    margin: 30px auto;
+}
+.bne-btn:hover{
+    color: white !important;
+    background-color: black !important;
+    border: 1px solid orangered !important;
+}
+#plt{
+    height: max-content;
+}
+.plans{
+    margin-top: 50px;
+}
+.pl-head{
+    text-align: center;
+}
+.bene li{
+    list-style: none;
+    margin-left: 18px;
+    line-height: 48px;
+    font-size: 18px;
+    text-transform: capitalize;   
+}
+.feau{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+#gl{
+    margin-top: 130px;
+}
+.bene ul{
+    margin-top: 20px; 
+}
+
+.bene i{
+    margin-left: -30px;
+    margin-right: 20px;
+    
+}

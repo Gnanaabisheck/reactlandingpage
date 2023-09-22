@@ -1,0 +1,58 @@
+.outer{
+   
+    padding: 10px 15px;
+    display: block;
+    margin: 30px auto;
+   
+}
+.rev{
+    margin-top: 90px;
+}
+.inner{
+    height: 400px;
+    width: 350px;
+    border: 3px solid rgba(255, 255, 255, 0.333) !important;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    display: block;
+    margin: 35px auto;
+    
+}
+#rimg{
+    height: 130px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    display: block;
+    margin: auto;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 90px;
+}
+.par p{
+    font-size: 17px;
+    line-height: 30px;
+}
+.nme{
+    margin-top: 100px;
+}
+.nme p{
+    text-align: center;
+   padding-left: 15px;
+   padding-right: 15px;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-top: -10px;
+}
+.star {
+    margin-left: 110px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    
+}
+.star i{
+    color: goldenrod;
+    font-size: 20px;
+}

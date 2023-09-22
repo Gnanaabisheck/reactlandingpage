@@ -1,0 +1,32 @@
+img{
+  
+    display: block;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.hd{
+    font-size: 25px;
+    margin-top: 50px;
+    text-align: center;
+    line-height: 60px;
+    text-transform: capitalize;
+}
+h2{
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 23px;
+}
+.imag{
+    overflow: hidden;
+    height: 250px;
+    width: 400px;
+    transition: 0.7s;
+    border: 1px solid white;
+    margin: 60px auto;
+    border-radius: 20px;
+}
+.imag:hover img{
+    transform: scale(1.2);
+    transition: 0.7s;
+}
